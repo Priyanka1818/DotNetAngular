@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "885e589a-4850-41f5-84f1-24045b60c8dc": {
+      "ProjectGuid": "885e589a-4850-41f5-84f1-24045b60c8dc",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 0
+    },
+    "eb5a0d92-30b3-41e2-ae22-6011f02eb248": {
+      "ProjectGuid": "eb5a0d92-30b3-41e2-ae22-6011f02eb248",
+      "DisplayName": "WebApi",
+      "ColorIndex": 1
+    },
+    "55ec84eb-ca50-40b5-a467-ea166a31b960": {
+      "ProjectGuid": "55ec84eb-ca50-40b5-a467-ea166a31b960",
+      "DisplayName": "WebApi.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

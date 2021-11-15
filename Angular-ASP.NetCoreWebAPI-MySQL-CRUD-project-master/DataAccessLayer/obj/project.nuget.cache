@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tv9Cnoul/d3MxIMMY0Zlu71jb4m76Jk3aGUiazeSs2SIwiCJigOFLd8wwGQtLdu/DnhrAgyDaaJr3oe3hKG+og==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\s542414\\Downloads\\Angular-ASP.NetCoreWebAPI-MySQL-CRUD-project-master\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package NETStandard.Library with version (>= 2.0.3)\r\n  - Found 3 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 2.0.0 ]",
+      "libraryId": "NETStandard.Library",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Identity.EntityFrameworkCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
