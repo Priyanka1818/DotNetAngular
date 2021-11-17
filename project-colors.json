@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b9fd6b3-0eeb-4551-8848-e3f84d8093aa": {
+      "ProjectGuid": "8b9fd6b3-0eeb-4551-8848-e3f84d8093aa",
+      "DisplayName": "Reminder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
